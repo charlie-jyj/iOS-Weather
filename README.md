@@ -11,4 +11,6 @@
 #### (2) URLSession
 <img src="https://letsean.dev/img/http/1.png">
 
+<img src="https://miro.medium.com/max/1400/1*w_iicbG7L3xEQTArjHUS6g.jpeg">
+
 ### 3) 새롭게 배운 것
