@@ -15,6 +15,7 @@
 		9268FE62278FB491004E2FF2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9268FE60278FB491004E2FF2 /* LaunchScreen.storyboard */; };
 		9268FE6A278FB4AA004E2FF2 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 9268FE69278FB4AA004E2FF2 /* README.md */; };
 		9268FE6C278FE48D004E2FF2 /* WeatherInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9268FE6B278FE48D004E2FF2 /* WeatherInformation.swift */; };
+		9268FE6E279009E8004E2FF2 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9268FE6D279009E7004E2FF2 /* ErrorMessage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		9268FE63278FB491004E2FF2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9268FE69278FB4AA004E2FF2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9268FE6B278FE48D004E2FF2 /* WeatherInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherInformation.swift; sourceTree = "<group>"; };
+		9268FE6D279009E7004E2FF2 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				9268FE60278FB491004E2FF2 /* LaunchScreen.storyboard */,
 				9268FE63278FB491004E2FF2 /* Info.plist */,
 				9268FE6B278FE48D004E2FF2 /* WeatherInformation.swift */,
+				9268FE6D279009E7004E2FF2 /* ErrorMessage.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			files = (
 				9268FE5A278FB48D004E2FF2 /* ViewController.swift in Sources */,
 				9268FE6C278FE48D004E2FF2 /* WeatherInformation.swift in Sources */,
+				9268FE6E279009E8004E2FF2 /* ErrorMessage.swift in Sources */,
 				9268FE56278FB48D004E2FF2 /* AppDelegate.swift in Sources */,
 				9268FE58278FB48D004E2FF2 /* SceneDelegate.swift in Sources */,
 			);
