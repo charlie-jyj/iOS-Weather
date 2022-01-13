@@ -148,6 +148,7 @@ Returns the first element of the sequence that satisfies the given predicate
 (URLSessionAPI is highly asynchronous)
 dataTask 의 completion closure 에서 UI 작업을 해야 한다면,
 Main thread 에서 작업을 하도록 만들어 주어야 한다.
+    - 대부분의 비동기 클로저 구문은 백그라운드 실행 영역에서 처리된다.
 
 ```swift
 DispatchQueue.main.async
