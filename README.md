@@ -9,5 +9,6 @@
 #### (1) Current Weather API
 
 #### (2) URLSession
+<img src="https://letsean.dev/img/http/1.png">
 
 ### 3) 새롭게 배운 것
